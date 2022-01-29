@@ -1,1 +1,1 @@
-What you are seeing here is my own personal npm package that prints out my resume. To do this I used packages and json. Inside of my resume you will find important informtion about myself such as my skills and media platforms. 
+What you are seeing here is my own personal npm package that prints out my resume. To do this I used packages and json. Inside of my resume you will find important information about myself such as my skills and media platforms. 
